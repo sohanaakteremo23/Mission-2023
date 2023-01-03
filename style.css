@@ -178,6 +178,7 @@
     margin: 60px;
     background-color: rgb(247, 194, 239);
     border-radius: 20px;
+    margin-left: 200px;
 }
 .half-width2{
     width: 30%;
@@ -194,6 +195,7 @@
     margin: 60px;
     background-color: rgb(219, 248, 248);
     border-radius: 20px;
+    margin-right: 200px;
 }
 .tittle{
     text-align: center;
